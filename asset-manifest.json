@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gakansh/Customized_Label_Packed_Drink.git/static/css/main.9b25a5b5.css",
-    "main.js": "/gakansh/Customized_Label_Packed_Drink.git/static/js/main.d017207e.js",
-    "index.html": "/gakansh/Customized_Label_Packed_Drink.git/index.html",
-    "main.9b25a5b5.css.map": "/gakansh/Customized_Label_Packed_Drink.git/static/css/main.9b25a5b5.css.map",
-    "main.d017207e.js.map": "/gakansh/Customized_Label_Packed_Drink.git/static/js/main.d017207e.js.map"
+    "main.css": "/Customized_Label_Packed_Drink/static/css/main.9b25a5b5.css",
+    "main.js": "/Customized_Label_Packed_Drink/static/js/main.d017207e.js",
+    "index.html": "/Customized_Label_Packed_Drink/index.html",
+    "main.9b25a5b5.css.map": "/Customized_Label_Packed_Drink/static/css/main.9b25a5b5.css.map",
+    "main.d017207e.js.map": "/Customized_Label_Packed_Drink/static/js/main.d017207e.js.map"
   },
   "entrypoints": [
     "static/css/main.9b25a5b5.css",
