@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gakansh/Customized_Label_Packed_Drink.git/static/css/main.9b25a5b5.css",
+    "main.js": "/gakansh/Customized_Label_Packed_Drink.git/static/js/main.d017207e.js",
+    "index.html": "/gakansh/Customized_Label_Packed_Drink.git/index.html",
+    "main.9b25a5b5.css.map": "/gakansh/Customized_Label_Packed_Drink.git/static/css/main.9b25a5b5.css.map",
+    "main.d017207e.js.map": "/gakansh/Customized_Label_Packed_Drink.git/static/js/main.d017207e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b25a5b5.css",
+    "static/js/main.d017207e.js"
+  ]
+}
