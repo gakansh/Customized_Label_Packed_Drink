@@ -1,14 +1,24 @@
 .customization {
-    text-align: center;
-    padding: 50px 20px;
-  }
-  
-  .customization input {
-    width: 300px;
-    padding: 10px;
-    border: 2px solid #007bff;
-    border-radius: 5px;
-  }
+  text-align: center;
+  padding: 50px 20px;
+}
+
+input {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #007bff;
+}
+
+.label-preview {
+  margin-top: 20px;
+  padding: 30px;
+  border: 2px dashed #007bff;
+  border-radius: 10px;
+  display: inline-block;
+  color: white;
+}
+
   
   .customization button {
     background-color: #007bff;

@@ -8,6 +8,11 @@ import Customization from './components/Customization';
 import Order from './components/Order';
 import Contact from './components/Contact';
 import './App.css';
+import SignUp from './components/SignUp';
+import Login from './components/Login';
+import Dashboard from './components/Dashboard';
+import Payment from './Payment';
+import LabelEditor from './components/LabelEditor';
 
 function App() {
     return (
@@ -17,6 +22,11 @@ function App() {
                 <Route path="/" element={<Home />} />
                 <Route path="/products" element={<Products />} />
                 <Route path="/customization" element={<Customization />} />
+                <Route path="/signup" element={<SignUp />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/dashboard" element={<Dashboard />} />
+        <Route path="/payment" element={<Payment />} />
+        <Route path="/customize" element={<LabelEditor />} />
                 <Route path="/order" element={<Order />} />
                 <Route path="/contact" element={<Contact />} />
             </Routes>
